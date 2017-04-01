@@ -1,0 +1,19 @@
+{
+  "name": "I",
+  "version": "1.0.0",
+  "description": "This thing will solve all your problems",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brittanica/I.git"
+  },
+  "author": "brittanica <brittanica@tfwno.gf>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brittanica/I/issues"
+  },
+  "homepage": "https://github.com/brittanica/I#readme"
+}
