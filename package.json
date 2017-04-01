@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/brittanica/I/issues"
   },
-  "homepage": "https://github.com/brittanica/I#readme"
+  "homepage": "https://github.com/brittanica/I#readme",
+  "devDependencies": {
+    "babel-eslint": "^7.2.1",
+    "eslint": "^3.19.0"
+  }
 }
